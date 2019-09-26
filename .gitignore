@@ -103,5 +103,3 @@ ENV/
 # serverless
 .serverless/
 .requirements/
-node_module*
-user_inf*
